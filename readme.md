@@ -1,16 +1,16 @@
 <h1 align="center">
-SAI42 - Smart Automated Irrigation System
+SAl42 - Smart Automated Irrigation System
 </h1>
 
-![SAI42](https://socialify.git.ci/ababdelo/SAI42/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
+![SAl42](https://socialify.git.ci/ababdelo/SAl42/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/ababdelo/SAI42?style=flat-square" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/commit-activity/m/ababdelo/SAI42?style=flat-square" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/ababdelo/SAl42?style=flat-square" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/ababdelo/SAl42?style=flat-square" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ababdelo" /> &nbsp;&nbsp;
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fababdelo%2FSAI42&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/ababdelo/SAI42" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/contributors/ababdelo/SAI42?style=flat-square" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fababdelo%2FSAl42&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/ababdelo/SAl42" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/contributors/ababdelo/SAl42?style=flat-square" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ This project is under active development. Features, architecture and hosting str
 
 ## 📝 Overview
 
-Smart Irrigation System (SAI42) is a data-driven, ESP32-powered solution for automated plant watering. It continuously monitors:
+Smart Irrigation System (SAl42) is a data-driven, ESP32-powered solution for automated plant watering. It continuously monitors:
 
 - **Environmental metrics:** Temperature, humidity, rainfall, ambient brightness
 - **Plant metrics:** Soil moisture
@@ -52,7 +52,7 @@ An intelligent threshold-based controller decides when to water, while a secure 
 - Historical data logs & charts
 - Manual override & alert notifications
 
-![Project Illustration](https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42.webp)
+![Project Illustration](https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42.webp)
 
 ---
 
@@ -92,21 +92,21 @@ ESP32 also hosts the web UI over Wi-Fi, enabling remote monitoring and control.
    - **Home Page:** Project overview & features
      <div style="display:flex; gap:1rem; flex-wrap:wrap;">
     <br>
-    <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20HOME.webp" alt="Home Preview" width="100%" />
+    <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20HOME.webp" alt="Home Preview" width="100%" />
    </div>
 
    - **Login Page:** Secure authentication & credential recovery
      <div align="center">
      <br>
-     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20LOGIN.webp" alt="Login Preview" width="45%" />
-     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20LOGIN%20-%20RECOVER.webp" alt="Credential Recovery" width="45%" />
+     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20LOGIN.webp" alt="Login Preview" width="45%" />
+     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20LOGIN%20-%20RECOVER.webp" alt="Credential Recovery" width="45%" />
    </div>
 
    - **Dashboard:** Live data, pump control, WebSocket updates
    <div align="center">
    <br>
-     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20DASHBOARD%20-%20PC.webp" alt="Dashboard Page PC Preview" width="100%">
-     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20DASHBOARD%20-%20MOBILE.webp" alt="Dashboard Page Mobile Preview" width="45%">
+     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20DASHBOARD%20-%20PC.webp" alt="Dashboard Page PC Preview" width="100%">
+     <img src="https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20DASHBOARD%20-%20MOBILE.webp" alt="Dashboard Page Mobile Preview" width="45%">
     </div>
 
 ---
@@ -130,7 +130,7 @@ ESP32 also hosts the web UI over Wi-Fi, enabling remote monitoring and control.
 
 ## 🔌 Wiring Diagram
 
-![Wiring Diagram](https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAI42/assets/images/SAI42%20-%20WIRING.webp)
+![Wiring Diagram](https://raw.githubusercontent.com/edunwant42/Asset42Archive/refs/heads/main/SAl42/assets/images/SAl42%20-%20WIRING.webp)
 
 ---
 
@@ -166,12 +166,12 @@ ESP32 also hosts the web UI over Wi-Fi, enabling remote monitoring and control.
 3. **Uploading Sketch**
 
    - Open the sketch in Arduino IDE and select the correct board and port from the Tools menu.
-   - Configure your sai42 credentials in the `sai42.ino` file on the sai42 object instance.
+   - Configure your SAl42 credentials in the `SAl42.ino` file on the SAl42 object instance.
 
    ```cpp
     /* Create the SAI object with 5 parameters:
     WiFi SSID, WiFi Password, admin username, admin password, and the device serial key. */
-    SAI sai42("SSID", "PASSWORD", "user", "admin", "E4D2U");
+    SAI SAl42("SSID", "PASSWORD", "user", "admin", "E4D2U");
    ```
 
    - Upload the sketch to the ESP32.
