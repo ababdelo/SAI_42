@@ -2,15 +2,15 @@
 SAI42 - Smart Automated Irrigation System
 </h1>
 
-![SAI42](https://socialify.git.ci/ababdelo/SAl42/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
+![SAI42](https://socialify.git.ci/ababdelo/SAI_42/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/ababdelo/SAl42?style=flat-square" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/commit-activity/m/ababdelo/SAl42?style=flat-square" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/ababdelo/SAI_42?style=flat-square" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/ababdelo/SAI_42?style=flat-square" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ababdelo" /> &nbsp;&nbsp;
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fababdelo%2FSAI42&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/ababdelo/SAl42" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/contributors/ababdelo/SAl42?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/ababdelo/SAI_42" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/contributors/ababdelo/SAI_42?style=flat-square" />
 </p>
 
 ---
